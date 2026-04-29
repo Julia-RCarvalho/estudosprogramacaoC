@@ -1,5 +1,4 @@
-
-          ESTUDOS DE PROGRAMAÇÃO EM C++
+##ESTUDOS DE PROGRAMAÇÃO EM C++##
 
 Projetos práticos em C++ desenvolvidos para 
 fixação de estudos acadêmicos e autônomos.
