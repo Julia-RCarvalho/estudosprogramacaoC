@@ -3,5 +3,5 @@
 Projetos práticos em C++ desenvolvidos para 
 fixação de estudos acadêmicos e autônomos.
 
-Status: em desenvolvimento
+Status: em desenvolvimento |
 Nível: iniciante
